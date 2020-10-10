@@ -7,4 +7,4 @@ Python3
 
 Pillow, a fork of Python Imaging Library (Install it via `pip install Pillow`)
 # Usage
-`python tif-to-pdf.py "/Input/Directory"`
+`python tif-to-pdf.py [-h] [-o "/Output/Directory"] "/Input/Directory"`
